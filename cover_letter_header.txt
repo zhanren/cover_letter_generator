@@ -1,0 +1,4 @@
+Dear Recruiting Manager at #company:
+
+I am writing to apply for the position of #position. I believe that I have the expertise that you are looking for. For the previous two years, I have been working for Wayfair, one of the largest e-commerce companies in their supply chain department to build models using python, and define metrics, building dashboard with SQL, Tableau, R. I believe these experiences will be successfully transferred into the position that I am applying for.
+

@@ -1,0 +1,1 @@
+I have been a python developer for Wayfair's supply chain organization. I have a solid grasp on version control, and the most utilized packages in python, such as pandas, hydra (for configuration), sklearn, pytorch, etc.
